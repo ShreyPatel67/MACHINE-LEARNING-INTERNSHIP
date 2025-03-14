@@ -1,0 +1,47 @@
+# interactive quiz application
+
+COMPANY :- CODETECH IT SOLUTION 
+
+NAME :- PATEL SHREY  
+
+INTERN ID:- CT12WVBU
+
+DOMAIN :- Machine Learning.
+
+DURATION :-  12 weeks
+
+MENTOR :- NEELA SANTOSH
+
+Decision Tree in Machine Learning: A Complete Guide
+🚀 A decision tree is a machine learning algorithm used for classification and regression. It breaks down data into smaller subsets based on conditions, making decisions similar to how a human would.
+
+🌳 Key Components of a Decision Tree
+1️⃣ Root Node → The starting point that represents the entire dataset.
+2️⃣ Decision Nodes → Intermediate nodes where the data gets split.
+3️⃣ Branches → Connects nodes and represents possible decisions.
+4️⃣ Leaf Nodes → The final decision or output (e.g., a class label).
+
+📌 Example: Suppose we want to classify a patient’s drug type based on age, blood pressure, cholesterol, and sodium-to-potassium ratio. The decision tree will help determine the best drug by evaluating these factors.
+
+📌 Where is a Decision Tree Used?
+Decision Trees have applications in various industries, such as healthcare, finance, marketing, and AI-driven decision-making.
+
+🏥 Healthcare
+✔ Disease Diagnosis – Helps diagnose diseases like diabetes, heart disease, and cancer based on symptoms.
+✔ Drug Prescription – Determines the best medication for a patient based on medical data.
+✔ Medical Chatbots – AI-based assistants suggest treatments based on patient input.
+
+💰 Finance
+✔ Credit Risk Analysis – Predicts whether a person will default on a loan.
+✔ Fraud Detection – Identifies unusual transactions that might be fraudulent.
+✔ Stock Market Prediction – Helps investors decide which stocks to buy or sell.
+
+📊 Marketing & Sales
+✔ Customer Segmentation – Groups customers based on age, spending habits, and location.
+✔ Lead Scoring – Predicts which customers are likely to convert into buyers.
+✔ Ad Targeting – Determines the best audience for specific advertisements.
+
+🌎 Real-World Examples
+✅ Google uses Decision Trees in its AI models.
+✅ Amazon & Netflix use them for recommendation systems.
+✅ Banks use them to predict loan approvals & fraud detection.
